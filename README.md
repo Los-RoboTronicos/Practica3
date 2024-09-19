@@ -66,6 +66,9 @@ Finalmente el brazo ejecutó el último movimiento en secuencia que fue colocar 
 Una vez completado todo el codigo, se realizaron las tareas de forma exitosa.
 
 ## Conclusiones
+- **Uriel Vladimir Alvarez Tapia:** La práctica demostró que el robot Epson, a través de su programación en RC+7.0, es capaz de realizar con éxito operaciones que requieren la manipulación de objetos con alta precisión. El manejo de fusibles involucró no solo movimientos predefinidos a través de comandos como Go, sino también una interacción efectiva con la pinza neumática, lo que evidencia la capacidad del sistema para realizar tareas industriales en un entorno controlado.
+- **Miguel Angel Castañeda Garcia:** Durante la práctica, fue necesario repetir varias veces las acciones programadas para verificar que el robot realizara correctamente los movimientos deseados. Esta repetición ayudó a detectar y corregir posibles errores en la secuencia, asegurando que el robot operara de manera consistente. Esto nos muestra la importancia de probar continuamente la programación para lograr un rendimiento óptimo en tareas automatizadas, y tras las dificultades se obtuvo una mayor práctica con la manipulación del robot, permitiendo sustentar la teoría vista en clase.
+- **Diana Alejandra Mendoza Mendoza:** La práctica mostró la importancia de una programación precisa para que el robot ejecute tareas pequeñas como mover fusibles de manera eficiente y sin errores. El uso de comandos simples en el software facilitó la automatización del proceso, demostrando que incluso sistemas avanzados pueden ser controlados de manera accesible. Además, repetir y ajustar las acciones fue clave para asegurar la consistencia en el desempeño del robot,observando la necesidad de pruebas continuas para optimizar su funcionamiento.
 
 
 
