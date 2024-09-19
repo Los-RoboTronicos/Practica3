@@ -22,8 +22,9 @@ Al seleccionar el menú de *home config* el programa transforma estos valores en
 ![Captura de pantalla 2024-09-05 091759](https://github.com/user-attachments/assets/29769186-b020-4dc9-9251-08bfc62e7b8d)
 
 **Guardar coordenadas** 
-El software ofrece la opción de mover el robot a voluntad del operador y, además, guardar la coordenada en la que se encuentra el brazo robótico en ese preciso instante mediante la seleccion del numero de movimiento se puede asignar un nombre para la posición designada y con el botón *teach* se guarda dichas coordenadas, figura 3.
-![image](https://github.com/user-attachments/assets/c368d2c2-4eb5-4ec7-b316-9a49a4207f70)
+El software ofrece la opción de mover el robot a voluntad del operador y, además, guardar la coordenada en la que se encuentra el brazo robótico en ese preciso instante mediante la seleccion del numero de movimiento se puede asignar un nombre para la posición designada y con el botón *teach* se guarda dichas coordenadas,el resumen de los puntos correspondientes se puede observar en la figura 3.
+![Imagen de WhatsApp 2024-09-19 a las 04 03 24_5fa818b6](https://github.com/user-attachments/assets/bd0f5ca7-4824-4883-99b5-d4bf37df7b4d)
+
 
 De esta manera, se conectó el equipo de computo con el brazo robotico mediante el cable USB, permitiendo determinar los puntos fisicos reales en la zona de trabajo y determinar las posiciones necesarias para realizar la encomienda, mover un fusible de lugar.
 
