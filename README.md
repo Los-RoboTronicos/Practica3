@@ -44,7 +44,7 @@ El código mostrado en la figura 5 ejecuta el objetivo de la práctica.
 
 ![image](https://github.com/user-attachments/assets/9c242315-197f-4176-a0f3-990944fc270f)
 
-Primeramente se tiene el comando superior 1 que posiciona la pinza arriba del fusible 1, posteriormente tomar 1 ejecuta la acción de tomar el fusible colocando la pinza en posición y cerrándola, con arribaespera se posiciona el fusible arriba de la caja, tras dejar el fusible en la caja, con superior 2 se guarda la posición del segundo fusible, depués con tomar 2 se toma el fusible 2, y se continúan ciclando los comandos dependiendo del movimiento y acción requeridos. 
+Primeramente se tiene el comando superior 1 que posiciona la pinza arriba del fusible 3, posteriormente tomar 1 ejecuta la acción de tomar el fusible colocando la pinza en posición y cerrándola, con arribaespera se posiciona el fusible arriba de la caja, tras dejar el fusible en la caja mediante el punto espera1 se procede a,con superior 2, colocarse sobre la posición del segundo fusible, depués con tomar 2 se toma el fusible 4, y se repiten los commandos anteriormente explicados para colocar el fusible 4 en la posición del fusible 3 y posteriormente tomar el fusible 3 desde la caja y dejarlo en la posición del fusible 4. 
 Esta vez, se implementaron más comandos para realizar las acciones solicitadas en secuencia.
 
 
